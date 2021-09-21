@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>eq_eq.png</file>
+    </qresource>
+</RCC>
