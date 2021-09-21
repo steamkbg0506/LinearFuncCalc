@@ -4,6 +4,7 @@
   #### ~~계수나 상수가 분수일때는 *귀찮아서* 안 만듦~~
   
  * 스크린샷
+   #####
    ![Image of this Program_1](https://github.com/steamkbg0506/steamkbg0506/blob/main/scr_img1.png)
    #####
    ![Image of this Program_2](https://github.com/steamkbg0506/steamkbg0506/blob/main/scr_img2.png)
