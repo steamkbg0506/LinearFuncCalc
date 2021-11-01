@@ -176,3 +176,4 @@ void MainWindow::onIntCalcButtonClicked(){
     //Y절편 끝, 기울기 시작
     ui->label_7->setText(QString::fromStdString(std::to_string(x_intercept.gaesu)));
     //기울기 끝
+}
